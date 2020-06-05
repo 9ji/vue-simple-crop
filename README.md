@@ -2,13 +2,13 @@
 
 > 基于[Simple-Crop](https://github.com/newbieYoung/Simple-Crop)包装成vue的组件，感谢原项目作者。
 
-<img src="https://raw.githubusercontent.com/newbieYoung/NewbieWebArticles/master/images/simple-crop-0.jpg">
+<img src="https://camo.githubusercontent.com/0fc7c4a0a1952998846ffb96f9902bc8ad98e6cd/68747470733a2f2f6e6577626965796f756e672e6769746875622e696f2f696d616765732f73696d706c652d63726f702d302e6a7067">
 
 > 左侧是IOS系统自带的图片裁剪功能，右侧为组件的示例一；
 
 可以扫描二维码体验：
 
-<img src="https://raw.githubusercontent.com/newbieYoung/NewbieWebArticles/master/images/simple-crop-1.png">
+<img src="https://camo.githubusercontent.com/122f4a444612c8d80e62d35763f953f75d13e6ff/68747470733a2f2f6e6577626965796f756e672e6769746875622e696f2f696d616765732f73696d706c652d63726f702d312e706e67">
 
 # 安装
 ```
